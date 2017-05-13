@@ -1,0 +1,113 @@
+ul{ 
+list-style: none; 
+margin: 0; 
+padding: 0; 
+} 
+
+.nav__wrapper{ 
+width: 97%; 
+margin: 0 auto; 
+} 
+
+.sprite__item_1{ 
+background: url(../images/linkedin/l_in_dark.png); 
+display: inline-block; 
+width: 45px; 
+height: 45px; 
+cursor: pointer; 
+margin-right: 5px; 
+background-repeat: no-repeat; 
+} 
+
+.sprite__item_1:hover{ 
+background: url(../images/linkedin/l_in_light.png); 
+background-position: 0px; 
+background-repeat: no-repeat; 
+} 
+
+.sprite__item_3{ 
+background: url(../images/Pinterest/pint_dark.png); 
+display: inline-block; 
+width: 45px; 
+height: 45px; 
+cursor: pointer; 
+margin-right: 5px; 
+background-repeat: no-repeat; 
+} 
+
+.sprite__item_3:hover{ 
+background: url(../images/Pinterest/pint_light.png); 
+background-position: 0px; 
+background-repeat: no-repeat; 
+} 
+
+.sprite__item_4{ 
+background: url(../images/twitter/tw_dark.png); 
+display: inline-block; 
+width: 45px; 
+height: 45px; 
+cursor: pointer; 
+margin-right: 5px; 
+background-repeat: no-repeat; 
+} 
+
+.sprite__item_4:hover{ 
+background: url(../images/twitter/tw_light.png); 
+background-position: 0px; 
+background-repeat: no-repeat; 
+} 
+
+.sprite__item_5{ 
+background: url(../images/google_plus/g_plus_dark.png); 
+display: inline-block; 
+width: 45px; 
+height: 45px; 
+cursor: pointer; 
+background-repeat: no-repeat; 
+} 
+
+.sprite__item_5:hover{ 
+background: url(../images/google_plus/g_plus_light.png); 
+background-position: 0px; 
+} 
+
+.sprite{ 
+margin-top: 8px; 
+} 
+
+.menu__item{ 
+display: inline; 
+padding-bottom: 20px; 
+} 
+
+.menu__link_1{ 
+text-decoration: none; 
+color: rgb(151, 69, 95); 
+padding-left: 4px; 
+} 
+
+.menu__link{ 
+text-decoration: none; 
+color: rgb(151, 69, 95); 
+border-right: 1px solid rgb(151, 69, 95); 
+padding-right: 7px; 
+padding-left: 4px; 
+} 
+
+.underline__div{ 
+height: 2px; 
+background-color: rgb(151, 69, 95); 
+margin-top: 5px; 
+} 
+
+.menu{ 
+display: inline-block; 
+float: right; 
+padding-top: 12px; 
+font-size: 17px; 
+}
+
+.underline{
+	border-bottom:1px solid rgb(151, 69, 95) ;
+	background-color: white;
+}

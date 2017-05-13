@@ -1,0 +1,60 @@
+@media (max-width: 767px) {
+	.btn-default{
+ 	display:inline-block;
+ 	background-color: white;
+ 	border:1px solid white;
+ 	width:60%;
+    margin-top:-120px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size:20px;
+    color: rgb(151, 69, 95);
+	}
+	.contact-bar{
+	width:98%;
+	height:150px;
+	background-color:  rgb(151, 69, 95);
+	margin-left:1%;
+	display: inline-block;
+	border-left:20px solid  rgb(151, 69, 95);
+	}
+	.contact-header{
+	color:white;
+	font-size: 25px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-left:40%;
+	width:50%;
+	}
+	.contact-text{
+	font-size: 16px;
+	color:white;
+	margin-left: 40%;
+	}
+}
+@media  (min-width: 768px) and (max-width:991px) {
+	.btn-default{
+ 	display:inline-block;
+ 	background-color: white;
+ 	border:1px solid white;
+ 	width:65%;
+    margin-top:-130px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size:20px;
+    color: rgb(151, 69, 95);
+	}
+	.contact-header{
+	color:white;
+	font-size: 25px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-left:35%;
+	width:40%;
+
+	}
+	.contact-bar{
+	width:98%;
+	height:105px;
+	background-color:  rgb(151, 69, 95);
+	margin-left:1%;
+	display: inline-block;
+	border-left:20px solid  rgb(151, 69, 95);
+	}
+}
